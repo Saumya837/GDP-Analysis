@@ -1,6 +1,6 @@
 # GDP-Analysis
-The Project performs Exploratory Data Analysis on GSDP data of 2014-15.
-The Project is divided in two parts: 
+#The Project performs Exploratory Data Analysis on GSDP data of 2014-15.
+#The Project is divided in two parts: 
   1. Part 1 uses State-wise Gross Domestic Product (GDP) at current price on yearly basis' data.
   2. Part 2 uses the Gross State Value Added (GSVA) and drop out  rate  of students in different states.
 --The part 1 finds the average growth rate and top 5 GDP states and Bottom 5 states of each state in span of 2012-16.
